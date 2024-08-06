@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Projetos C#\\Exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13841841-A1E7-45CC-9B81-EC15C0E6C051}|Exercicios\\CriaContaBancaria.csproj|c:\\temp\\projetos c#\\exercicios\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13841841-A1E7-45CC-9B81-EC15C0E6C051}|Exercicios\\CriaContaBancaria.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13841841-A1E7-45CC-9B81-EC15C0E6C051}|Exercicios\\CriaContaBancaria.csproj|c:\\temp\\projetos c#\\exercicios\\exercicios\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13841841-A1E7-45CC-9B81-EC15C0E6C051}|Exercicios\\CriaContaBancaria.csproj|solutionrelative:exercicios\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\Exercicios\\Exercicios\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Exercicios\\ContaBancaria.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\Exercicios\\Exercicios\\ContaBancaria.cs",
+              "RelativeToolTip": "Exercicios\\ContaBancaria.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAzwDoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:48:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\Exercicios\\Exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\Exercicios\\Exercicios\\Program.cs",
+              "RelativeToolTip": "Exercicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:44:15.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
